@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arya
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue JS Framework
+- 🌱 I’m currently learning Go Programming Languange
 - 📫 How to reach me, aryadyas70@gmail.com
 
 <!---
